@@ -49,15 +49,4 @@ Before you start, ensure you have the following:
 
 - **Security**: The project uses JWT-based security. You don't need to configure it, but it's there to protect the APIs.
 
-## Need Help?
 
-For any questions or assistance, feel free to contact us at vogonyo101@gmail.com. Enjoy using the Compulyx Backend Project!
-
-Repository Link: [https://github.com/vogonyo/compulynx_backend](https://github.com/vogonyo/compulynx_backend)
-
-## Need Help?
-
-For any questions or assistance, feel free to contact [vogonyo101@gmail.com]. Enjoy using the Compulyx Backend Project!
-
----
-**Note**: Replace `[vogonyo101@gmail.com]` with your actual contact information.
